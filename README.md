@@ -12,5 +12,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/anisyaaaa12/MyLabWork2.git
-   cd MyLabWork2
+   git clone https://github.com/anisyaaaa12/MyLabWorkwww.git
+   cd MyLabWorkwww
